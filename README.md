@@ -4,5 +4,8 @@ HW1_P1.m : Matlab code (written by me) to complete parts a and b of problem 1
 
 test.r & test.in : modified from from Marc's stochastic sim code. Used to double-check results from Matlab code in problem 1a
 
+lambda.in : modified (only very slightly) from Marc's stochastic sim code. lambda.r was not modified and therefore is not included in this repository
 
-lambda.r & lambda.in : 
+HW1_P2.m : simple Matlab script to store, process, and display data obtained by repeatedly running Marc's code for problem 2
+
+
